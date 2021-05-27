@@ -16,8 +16,6 @@ Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=borisfoko)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisfoko)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogaka_dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=borisfoko&show_icons=true&count_private=true&theme=tokyonight)
