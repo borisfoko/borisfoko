@@ -16,7 +16,7 @@ Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=borisfoko)
 
-![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borisfoko)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borisfoko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisfoko)
 
