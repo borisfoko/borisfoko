@@ -14,9 +14,9 @@ Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=borisfoko)]
+![trophy](https://github-profile-trophy.vercel.app/?username=borisfoko)
 
-![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mogaka_dev)]
+![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borisfoko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisfoko)
 
