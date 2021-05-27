@@ -18,7 +18,7 @@ Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borisfoko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisfoko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisfoko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=borisfoko&show_icons=true&count_private=true&theme=tokyonight)
 
