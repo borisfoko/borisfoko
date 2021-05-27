@@ -30,5 +30,3 @@ Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
 ------
 Credit: [borisfoko](https://www.github.com/borisfoko)
-
-Last Edited on: 05/12/2020
