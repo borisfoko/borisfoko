@@ -1,5 +1,5 @@
 ## Hi there 👋,
-I am a Javascript developer who is really passionate of its technologies
+I am a developer who is really passionate of its technologies
 
 Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
 
