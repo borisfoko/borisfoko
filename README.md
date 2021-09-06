@@ -1,7 +1,7 @@
 ## Hi there 👋,
 I am a developer who is really passionate of its technologies
 
-Skills: Java / C# / C++/ Python/ Angular/ VueJs/ REACT / JS / HTML / CSS / PHP
+Skills: Java / Android / C# / C++ / C / Python/ Scala / Angular/ VueJs/ REACT / JS / HTML / CSS / PHP / Lua / ASM
 
 - 🔭 I’m currently working on Wasify 
 - 🌱 I’m currently learning React Native 
